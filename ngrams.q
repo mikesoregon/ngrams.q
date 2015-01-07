@@ -166,7 +166,8 @@ my   lord   ,    | 7.882265
 
 /
 References:
- - http://en.wikipedia.org/wiki/Semiring
- - [MORE HERE]
-
+ - Definition: tropical semiring - http://en.wikipedia.org/wiki/Semiring
+ - Roark & Sproat, Computational Approaches to Morphology and Syntax
+ - IBM WebSphere, http://en.wikipedia.org/wiki/IBM_WebSphere
+ - python libraries: nltk, scikit-learn, numpy, scipy, pyq
 \
