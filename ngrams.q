@@ -2,8 +2,8 @@
 /////////////
 / 2015.01.06  - Version 1
 /   - Known Issues:
-/     - The probabilities math is wrong;
-/     - multigrams don't account for history right;
+/     - The n-gram counts are correct, but the probabilities math seems wrong;
+/     - multigrams don't account for history/P_prior right;
 /     - Needs backoff smoothing for unobserved n-grams;
 /     - Should do a .u.upd pattern for adding counts, so peach and map+reduce are easy
 /     - Corpus data needs scrubbed.  (e.g. delete non-word characters)
